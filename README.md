@@ -32,10 +32,10 @@ This program can executed using:
 * VS code
 * or any python compatible IDE
 ## USAGE
-1 Diploy program
-2 Choose calculator
-3 Provide necessary information
-4 When done choose exit to exit the program
+1. Diploy program
+2. Choose calculator
+3. Provide necessary information
+4. When done choose exit to exit the program
 ## PROJECT STATUS
 * Completed
 ## ROOM FOR IMPROVEMENT
