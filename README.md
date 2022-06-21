@@ -12,9 +12,7 @@ This program allows the user to access two different financial calculators. An i
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contacts)
 ## GENERAL INFORMATION
-The investment calculator has two types of interest, simple and compound interest. The user chooses between these two interests formulars. Then the program guides the user into inputing appropriate information and display the results. If the user chooses bond calculator the program display necessary commands to guide a user into inputing correct information and displays results in a user friendly manor.
-
-This project was my first capstone project at HyperionDev to test my basic knowledge of python
+The investment calculator has two types of interest, simple and compound interest. The user chooses between these two interests formulars. Then the program guides the user into inputting appropriate information and display the results. If the user chooses bond calculator the program display necessary commands to guide a user into inputting correct information and displays results in a user friendly manor.
 ## TECHNOLOGIES USED
 * Python IDLE 3.10
 * Notepad++
@@ -27,15 +25,15 @@ This project was my first capstone project at HyperionDev to test my basic knowl
 <img src = "Screenshoots/Screenshot (44).png" width  = 400>
 ## SETUP
 Download a program to a folder of your choice, use one of the following technologies to run the program.
-This program can executed using:
+This program can execute using:
 * Python IDLE 
 * VS code
 * or any python compatible IDE
 ## USAGE
-1. Diploy program
+1. Deploy program
 2. Choose calculator
 3. Provide necessary information
-4. When done choose exit to exit the program
+4. When done choose to exit to exit the program
 ## PROJECT STATUS
 * Completed
 ## ROOM FOR IMPROVEMENT
